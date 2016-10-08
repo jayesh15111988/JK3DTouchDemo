@@ -23,8 +23,16 @@ towards it as it becomes mainstream.
 ![alt text][3D_Touch_Demo]
 <br/><br/>
 
-> I also wrote a brief blog post about this demo. Please check it out at following link.
+> I also wrote a brief blog post about this demo.
+
   https://jayeshkawli.ghost.io/iphone-3d-touch-demo/
+  
+  Series of blog posts on how to implement 3D touch programmatically. (Mostly technical description)
+  
+  https://jayeshkawli.ghost.io/ios-3d-touch-code-swift-example-part-1/
+  https://jayeshkawli.ghost.io/ios-3d-touch-peek-and-pop-actions-part-2/
+  https://jayeshkawli.ghost.io/ios-3d-touch-measuring-the-force-of-touch-part-3/
+  
   
 [3D_Touch_Demo]: https://github.com/jayesh15111988/JK3DTouchDemo/blob/master/Demo/3DTouch_Demo.gif "Demo of 3D touch on simulator implemendted using swift and iPhone6s simulator running on iOS 9.1"
 
