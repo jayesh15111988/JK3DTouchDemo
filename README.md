@@ -1,15 +1,15 @@
 # JK3DTouchDemo
 A sample project to demonstrate the use of 3D touch on iPhone6s
 
-#####First off, thanks to following sources which helped me to create this demo.
+#### First off, thanks to following sources which helped me to create this demo.
 
 - [Versluis on GitHub](https://github.com/versluis/3D-Touch)
 
 - [the-nerd.be](https://the-nerd.be/2015/10/06/3d-touch-peek-and-pop-tutorial/)
 
-- [useyourloaf.com](http://useyourloaf.com/blog/3d-touch-peek-and-pop/)
+- [useyourloaf.com - Link 1](http://useyourloaf.com/blog/3d-touch-peek-and-pop/)
 
-- [useyourloaf.com](http://useyourloaf.com/blog/adding-3d-touch-quick-actions/)
+- [useyourloaf.com - Link 2](http://useyourloaf.com/blog/adding-3d-touch-quick-actions/)
 
 I have added this repository to help you utilize 3D touch Apple introduced since their introduction of iPhone6s and iPhone6s-Plus.
 This is an awesome feature and I strongly recommend you to take advantage of it. It will immensly help you for future apps.
